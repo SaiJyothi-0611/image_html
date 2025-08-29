@@ -8,9 +8,10 @@
     <h1>hello , welcome to html</h1>
     <p>html used for <b>web page designing</b></p>
     <p>devops life cycle</p>
-    <img src="devopslifecycle.png"alt="devops lifecycle" >
+    <img src="devopslifecycle.png" >
     
 </body>
 </html>
+
 
 
